@@ -16,4 +16,4 @@ Para mais detalhes, [essa resposta](https://datascience.stackexchange.com/questi
 [Relatório LaTeX no Overleaf](https://pt.overleaf.com/7971632445grqrdnkdgnxn)
 
 # Versão do Dataset
-[Imagem](https://imgur.com/dIQlLd4)
+![Dataset Covid Manaus baixado 06/08 às 11h](config/dataset_versao.png)
