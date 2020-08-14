@@ -1,0 +1,17 @@
+topicos do relatorio
+
+introducao
+	breve contextualizacao sobre o tema e o trabalho proposto
+metodologia
+	como abordamos o problema e as ferramentas que utilzamos
+	citar sobre o dropna dos dataset
+resultados
+	escrever o que entendemos na resposta das questoes
+	argumentar sobre resultados
+atividades propostas
+	comentar sobre
+conclusao
+	citar justificativa dos valores discrepantes
+	finalizar ideias
+	
+	
